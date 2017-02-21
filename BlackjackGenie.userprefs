@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{04C0E334-7712-4043-A795-6965B277947F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlackjackGenie.Droid PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>
