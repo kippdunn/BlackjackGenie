@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{04C0E334-7712-4043-A795-6965B277947F}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{F81CE25F-6BCA-49E6-8872-70FEF2751ECD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
     <Files>
-      <File FileName="iOS/ViewController.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewController.cs" Line="16" Column="4" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BlackjackGenie.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.BlackjackGenie.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0FAEBEA-620A-48BD-9D9C-F009FAA981DF" />
 </Properties>

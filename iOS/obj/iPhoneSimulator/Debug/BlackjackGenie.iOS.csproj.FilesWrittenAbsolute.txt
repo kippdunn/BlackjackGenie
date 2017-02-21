@@ -1,0 +1,11 @@
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/bin/iPhoneSimulator/Debug/BlackjackGenie.iOS.exe.mdb
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/bin/iPhoneSimulator/Debug/BlackjackGenie.iOS.exe
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/BlackjackGenie.iOS.exe
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/obj/iPhoneSimulator/Debug/BlackjackGenie.iOS.exe.mdb
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/bin/iPhoneSimulator/Debug/BlackjackGenie.dll
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/iOS/bin/iPhoneSimulator/Debug/BlackjackGenie.dll.mdb

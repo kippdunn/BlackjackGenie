@@ -1,0 +1,5 @@
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/BlackjackGenie/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/BlackjackGenie/bin/Debug/BlackjackGenie.dll.mdb
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/BlackjackGenie/bin/Debug/BlackjackGenie.dll
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/BlackjackGenie/obj/Debug/BlackjackGenie.dll
+/Volumes/Transcend/Xamarin Projects/BlackjackGenie/BlackjackGenie/obj/Debug/BlackjackGenie.dll.mdb

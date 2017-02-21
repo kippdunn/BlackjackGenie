@@ -1,0 +1,4 @@
+BlackjackGenie.Droid.MainActivity, BlackjackGenie.Droid;md555f7a6ee2099d4c23f54de06e2ad255f.MainActivity
+BlackjackGenie.Droid.MainActivity, BlackjackGenie.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md555f7a6ee2099d4c23f54de06e2ad255f.MainActivity
+BlackjackGenie.Droid.MainActivity;md555f7a6ee2099d4c23f54de06e2ad255f.MainActivity
+blackjackgenie.droid.MainActivity;md555f7a6ee2099d4c23f54de06e2ad255f.MainActivity
